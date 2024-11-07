@@ -1,0 +1,13 @@
+.recharts-line-dots {
+  display: none;
+}
+
+.recharts-yAxis .recharts-text {
+  transform: translate(-20px, 0);
+}
+.banner2 .recharts-wrapper .recharts-cartesian-grid-horizontal line:last-child,
+.banner2 .recharts-wrapper .recharts-cartesian-grid-horizontal line:first-child,
+.banner2 .recharts-wrapper .recharts-cartesian-grid-vertical line:first-child,
+.banner2 .recharts-wrapper .recharts-cartesian-grid-vertical line:last-child {
+  stroke-opacity: 0 !important;
+}
